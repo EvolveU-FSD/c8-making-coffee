@@ -1,9 +1,9 @@
 console.log("start");
-console.log("do I have coffee beans? (no)");
+console.log("am I out of coffee beans? (yes)");
 console.log("add coffee beans to shopping list");
 console.log("buy coffee beans");
 console.log("grind beans");
-console.log("is the coffee pot clean? (no)");
+console.log("is the coffee pot dirty? (yes)");
 console.log("clean the pot");
 console.log("add filter to coffee machine");
 console.log("add coffee grounds to filter");

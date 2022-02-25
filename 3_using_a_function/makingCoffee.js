@@ -17,6 +17,7 @@ function makeCoffee(outOfCoffeeBeans, coffeePotIsDirty) {
   console.log("wait for coffee to finish brewing");
   console.log("end");
 }
+
 console.log("\n");
 console.log("Starting process with no coffee beans and clean pot");
 makeCoffee(true, false);
